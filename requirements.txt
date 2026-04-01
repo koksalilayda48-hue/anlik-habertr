@@ -1,4 +1,0 @@
-python-telegram-bot[job-queue]==20.3
-feedparser
-httpx==0.24.1
-httpcore==0.17.2
